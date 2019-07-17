@@ -5,7 +5,7 @@ Languate : Java
 
 <h4>HW01</h4> - 1)Double factorial problem<br>
      - 2)Faery sequence problem<br>
-HW02 - Making linked list problem<br>
+<h4>HW02</h4> - Making linked list problem<br>
 HW03 - Recognizing Tokens problem<br>
 HW04 - Cute19 Scanner : cute19 문법에 따라서 작성된 text파일을 input으로 받고,<br>
        모든 token을 인식하여 token과 lexeme을 출력하여 파일에 저장하는 프로그램<br>
